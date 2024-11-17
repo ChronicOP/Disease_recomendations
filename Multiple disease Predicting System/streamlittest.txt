@@ -1,0 +1,2 @@
+
+streamlit run '/Users/prathameshpatil/Desktop/Multiple disease Predicting System\MultipleDisease.py'
