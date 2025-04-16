@@ -1,2 +1,2 @@
 
-streamlit run '/Users/prathameshpatil/Desktop/Multiple disease Predicting System\MultipleDisease.py'
+streamlit run '/Users/riddhima-333/Desktop/Multiple disease Predicting System\MultipleDisease.py'
